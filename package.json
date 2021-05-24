@@ -1,0 +1,23 @@
+{
+  "name": "realakshar",
+  "version": "1.0.0",
+  "description": "i want to replace myself",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DrinkingWater64/realAksharBot.git"
+  },
+  "author": "drinkingwater64",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DrinkingWater64/realAksharBot/issues"
+  },
+  "homepage": "https://github.com/DrinkingWater64/realAksharBot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
